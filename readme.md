@@ -1,4 +1,4 @@
-#Pre requisite
+# Pre requisite
 Nodejs
 vue-cli
 nest
@@ -6,7 +6,7 @@ nest
 To start both projects, you can use the following commands:
 
 # Navigate to the backend directory and start the backend project
-cd backend/backend
+cd backend
 npm install
 npm run start
 
