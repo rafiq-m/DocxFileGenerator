@@ -11,7 +11,7 @@ To start both projects, you can use the following commands:
 3. npm run start
 
 # Navigate back to the root directory
-1. cd ../../
+1. cd ../
 
 # Navigate to the frontend directory and start the frontend project
 1. cd frontend
